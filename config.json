@@ -1,0 +1,11 @@
+{
+	"instanceABaseUrl": "https://his.aa.us",
+	"instanceBBaseUrl": "https://his.aa.us",
+	"rootOrgUnitId": "IWp9dQGM0bS",
+	"dataSetId": "NWWbBGxUezd",
+	"periodType": "yearly",
+	"instanceAUsername": "username",
+	"instanceAPassword": "password",
+	"instanceBUsername": "username",
+	"instanceBPassword": "password"
+}
