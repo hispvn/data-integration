@@ -1,12 +1,12 @@
 INSTRUCTIONS:
 
---Installation:
+++Installation:
 	1.Unzip the files, you will see "data-integration" folder.
 	2.Download and install NodeJS. (https://nodejs.org/en/download/)
 	3.Go to "data-integration" folder and open Command Line (Windows) / Terminal (Ubuntu/Mac) here.
 	4.Type "npm install".
 
---How to use:
+++How to use:
 	1.Open "config.json" file in "data-integration" folder with any text editor.
 	2."instanceABaseUrl" : put your instance A address here. (you need to put full URL, example: "https://hmis.aa.com")
 	3."instanceBBaseUrl" : put your instance B address here. (you need to put full URL, example: "https://hmis.bb.com")
