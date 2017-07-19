@@ -2,10 +2,9 @@ INSTRUCTIONS:
 
 ++Installation:
 
-> 1.Unzip the files, you will see "data-integration" folder.  
-> 2.Download and install NodeJS. (https://nodejs.org/en/download/)  
-> 3.Go to "data-integration" folder and open Command Line (Windows) / Terminal (Ubuntu/Mac) here.  
-> 4.Type "npm install".
+> 1.Download and install NodeJS. (https://nodejs.org/en/download/)  
+> 2.Go to "data-integration" folder and open Command Line (Windows) / Terminal (Ubuntu/Mac) here.  
+> 3.Type "npm install".
 
 ++How to use:
 > 1.Open "config.json" file in "data-integration" folder with any text editor.  
