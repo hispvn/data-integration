@@ -33,6 +33,7 @@ switch (config.periodType) {
 const createAuthenticationHeader = (username, password) => {
 	return "Basic " + new Buffer(username + ":" + password).toString("base64");
 };
+
 const getData = () => {
 	return fetch(
 			`${config.instanceABaseUrl}/api/dataValueSets?orgUnit=${config.rootOrgUnitId}&lastUpdatedDuration=${lastUpdatedDuration}&dataSet=${config.dataSetId}&children=true`, {
