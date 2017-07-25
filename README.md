@@ -13,8 +13,8 @@ INSTRUCTIONS:
 > 3."instanceBBaseUrl" : put your instance B address here. (you need to put full URL, example: "https://hmis.bb.com")  
 > 4."rootOrgUnitId": put your highest level (root) organisation unit ID here.  
 > 5."dataSetId": put the ID of data set.  
-> 6."periodType": period type of the data set or this can be known as how often do the data be synced. (can be "daily","monthly","weekly","quarterly","yearly")
-> 7."username" and "password": put your username and password. (for both instance A and B)   
+> 6."periodType": period type of the data set or this can be known as how often do the data be synced. (can be "daily","monthly","weekly","quarterly","yearly")  
+> 7."username" and "password": put your username and password. (for both instance A and B)  
 > 8.To run the script, go to "data-integrationmaster" folder and open Command Line / Terminal and type "node index.js".The script will take all the data from last period count from current date (*) from data set in instance A and push into instance B automatically. You can see the result which stored in "history.log" file, this is a text file and can be opened in any text editor.  
 
 	(*): depend on selected "periodType", example:
