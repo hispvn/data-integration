@@ -3,9 +3,9 @@ INSTRUCTIONS:
 ++Installation:
 
 > 1.Download and install NodeJS. (https://nodejs.org/en/download/)  
-> 2.Extract the ZIP file you will have "data-integration-master" folder.
-> 3.Go to "data-integration-master" folder and open Command Line (Windows) / Terminal (Ubuntu/Mac) here.
-> 4.Type "npm install".
+> 2.Extract the ZIP file you will have "data-integration-master" folder.  
+> 3.Go to "data-integration-master" folder and open Command Line (Windows) / Terminal (Ubuntu/Mac) here.  
+> 4.Type "npm install".  
 
 ++How to use:
 > 1.Open "config.json" file in "data-integration-master" folder with any text editor.
