@@ -1,4 +1,4 @@
-INSTRUCTIONS:
+INSTRUCTIONS: If you have 2 instance with the same org unit tree and the same data sets, this script will be helpful. It will take all the data from last period from instance A and put into to instance B (you can select which data set to be synched).
 
 ++Installation:
 
